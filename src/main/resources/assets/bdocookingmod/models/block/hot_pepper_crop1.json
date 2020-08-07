@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "bdocookingmod:blocks/hot_pepper_crop1"
+  }
+}

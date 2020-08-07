@@ -1,0 +1,32 @@
+{
+  "item.bdocookingmod.onion": "Onion",
+  "item.bdocookingmod.ancient_cron_spice": "Ancient Cron Spice",
+  "item.bdocookingmod.base_sauce": "Base Sauce",
+  "item.bdocookingmod.butter": "Butter",
+  "item.bdocookingmod.cooking_wine": "Cooking Wine",
+  "item.bdocookingmod.deep_frying_oil": "Deep Frying Oil",
+  "item.bdocookingmod.olive_oil": "Olive Oil",
+  "item.bdocookingmod.dough": "Dough",
+  "item.bdocookingmod.fig": "Fig",
+  "item.bdocookingmod.hot_pepper": "Hot Pepper",
+  "item.bdocookingmod.mineral_water": "Mineral Water",
+  "item.bdocookingmod.pepper": "Pepper",
+  "item.bdocookingmod.red_sauce": "Red Sauce",
+  "item.bdocookingmod.salt": "Salt",
+  "item.bdocookingmod.beer": "Beer",
+  "item.bdocookingmod.balenos_meal": "Balenos Meal",
+  "item.bdocookingmod.cheese": "Cheese",
+  "item.bdocookingmod.grilled_sausage": "Grilled Sausage",
+  "item.bdocookingmod.sute_tea": "Sute Tea",
+  "item.bdocookingmod.tea_fine_scent": "Tea With Fine Scent",
+
+  "block.bdocookingmod.onion_crop": "Onion Seeds",
+  "block.bdocookingmod.hot_pepper_crop": "Hot Pepper Seeds",
+  "block.bdocookingmod.pepper_crop": "Pepper Seeds",
+  "block.bdocookingmod.fig_crop": "Fig Seeds",
+
+  "container.cooking_chest": "Cooking Utensil",
+
+  "block.bdocookingmod.basic_cooking_utensil": "Basic Cooking Utensil",
+  "itemGroup.bdoTab": "BDO Cooking"
+}

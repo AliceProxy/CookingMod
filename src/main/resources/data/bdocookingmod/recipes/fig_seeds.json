@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bdocookingmod:fig"
+    }
+  ],
+  "result":
+  {
+    "item": "bdocookingmod:fig_seeds",
+    "count": 1
+  }
+}

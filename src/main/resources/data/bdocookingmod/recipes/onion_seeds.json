@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bdocookingmod:onion"
+    }
+  ],
+  "result":
+  {
+    "item": "bdocookingmod:onion_seeds",
+    "count": 1
+  }
+}

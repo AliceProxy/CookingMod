@@ -1,0 +1,12 @@
+{
+    "variants": {
+      "age=0": { "model":  "bdocookingmod:block/onion_crop0"},
+      "age=1": { "model":  "bdocookingmod:block/onion_crop0"},
+      "age=2": { "model":  "bdocookingmod:block/onion_crop1"},
+      "age=3": { "model":  "bdocookingmod:block/onion_crop1"},
+      "age=4": { "model":  "bdocookingmod:block/onion_crop2"},
+      "age=5": { "model":  "bdocookingmod:block/onion_crop2"},
+      "age=6": { "model":  "bdocookingmod:block/onion_crop3"},
+      "age=7": { "model":  "bdocookingmod:block/onion_crop3"}
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bdocookingmod:hot_pepper"
+    }
+  ],
+  "result":
+  {
+    "item": "bdocookingmod:hot_pepper_seeds",
+    "count": 1
+  }
+}

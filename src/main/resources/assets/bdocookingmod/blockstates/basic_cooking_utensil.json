@@ -1,0 +1,8 @@
+{
+    "variants": {
+        "facing=north": { "model": "bdocookingmod:block/basic_cooking_utensil"},
+        "facing=south": { "model": "bdocookingmod:block/basic_cooking_utensil", "y": 180},
+        "facing=west": { "model": "bdocookingmod:block/basic_cooking_utensil", "y": 270 },
+        "facing=east": { "model": "bdocookingmod:block/basic_cooking_utensil", "y": 90 }
+    }
+}

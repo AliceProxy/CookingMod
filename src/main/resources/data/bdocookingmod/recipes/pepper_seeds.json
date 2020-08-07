@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "bdocookingmod:pepper"
+    }
+  ],
+  "result":
+  {
+    "item": "bdocookingmod:pepper_seeds",
+    "count": 1
+  }
+}
